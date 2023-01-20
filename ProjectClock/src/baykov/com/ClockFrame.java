@@ -24,7 +24,7 @@ public class ClockFrame extends JFrame {
         this.setTitle("Clock");
         this.setLayout(new FlowLayout());
         // center alignment, 5 unit H and V gap
-        this.setSize(400, 200);
+        this.setSize(400, 220);
         this.getContentPane().setBackground(Color.BLACK);
         // sets the background color to black
         this.setResizable(false);
